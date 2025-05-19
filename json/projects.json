@@ -1,0 +1,30 @@
+[
+    {
+        "en":{
+            "category": "Web",
+            "project": "Task Manager",
+            "description": "A simple web application for managing your tasks."
+        },
+        "ar":{
+            "category": "الرئيسية",
+            "project": "صياغة التميز الرقمي",
+            "description": "المتطورة، بالإضافة إلى حلول تقنية ذكية مثل"
+        },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3yTRm6nijQeND-6GXeALdQ5iWC2t1SKL3lw&s",
+        "link":"https://google.com"
+    },
+    {
+        "en":{
+            "category": "Web2",
+            "project": "Task Manager",
+            "description": "A simple web application for managing your tasks."
+        },
+        "ar":{
+            "category": "الرئيسية",
+            "project": "صياغة التميز الرقمي",
+            "description": "المتطورة، بالإضافة إلى حلول تقنية ذكية مثل"
+        },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivTWLrm5bXsGhNOHarhq26Ts_jy3V6sYaPw&s",
+        "link":"https://google.com"
+    }
+]
