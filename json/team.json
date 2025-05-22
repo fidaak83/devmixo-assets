@@ -1,24 +1,13 @@
 [
     {
         "en": {
-            "name": "Antonio Roberto",
-            "role": "Founder"
+            "name": "Rahman",
+            "role": "UI / UX"
         },
         "ar": {
-            "name": "الشركة",
-            "role": "اتصل"
+            "name": "رحمان",
+            "role": "UI / UX"
         },
-        "image": "https://studio.bruinlife.com/wp-content/uploads/2024/09/2B8_5802.jpg"
-    },
-    {
-        "en": {
-            "name": "Antonio Roberto",
-            "role": "Founder"
-        },
-        "ar": {
-            "name": "الشركة",
-            "role": "اتصل"
-        },
-        "image": "./images/1696238374.png"
+        "image": "https://fidaak83.github.io/devmixo-assets/images/rahman.jpg"
     }
 ]
