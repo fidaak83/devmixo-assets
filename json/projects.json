@@ -1,30 +1,44 @@
 [
     {
-        "en":{
-            "category": "Web",
-            "project": "Task Manager",
-            "description": "A simple web application for managing your tasks."
+        "en": {
+            "category": "Web UI / UX",
+            "project": "Pet Care Website Design - E-commerce",
+            "description": "A stylish and functional online store for pet products and services"
         },
-        "ar":{
-            "category": "الرئيسية",
-            "project": "صياغة التميز الرقمي",
-            "description": "المتطورة، بالإضافة إلى حلول تقنية ذكية مثل"
+        "ar": {
+            "category": "الويب UI / UX",
+            "project": "تصميم موقع ويب لرعاية الحيوانات الأليفة - التجارة الإلكترونية",
+            "description": "متجر أنيق وعملي لمنتجات وخدمات الحيوانات الأليفة" 
         },
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3yTRm6nijQeND-6GXeALdQ5iWC2t1SKL3lw&s",
-        "link":"https://google.com"
+        "image": "https://fidaak83.github.io/devmixo-assets/images/web_01.jpg",
+        "link": "https://www.behance.net/gallery/222988175/Pet-Care-Website-Design-E-commerce?tracking_source=search_projects|web+design+landing+page&l=6"
     },
     {
-        "en":{
-            "category": "Web2",
-            "project": "Task Manager",
-            "description": "A simple web application for managing your tasks."
+        "en": {
+            "category": "Web UI / UX",
+            "project": "Food Website Design",
+            "description": "A clean and appetizing website design for food delivery or restaurant services"
         },
-        "ar":{
-            "category": "الرئيسية",
-            "project": "صياغة التميز الرقمي",
-            "description": "المتطورة، بالإضافة إلى حلول تقنية ذكية مثل"
+        "ar": {
+            "category": "الويب UI / UX",
+            "project": "تصميم موقع ويب للطعام",
+            "description": "تصميم موقع جذاب وسهل الاستخدام لخدمات توصيل الطعام أو المطاعم"
         },
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivTWLrm5bXsGhNOHarhq26Ts_jy3V6sYaPw&s",
-        "link":"https://google.com"
+        "image": "https://fidaak83.github.io/devmixo-assets/images/web_02.jpg",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/4724db225049113.681645c1ac7bf.png"
+    },
+    {
+        "en": {
+            "category": "Web UI / UX",
+            "project": "Byredo eCommerce",
+            "description": "A luxury eCommerce website design for high-end fragrance and beauty products"
+        },
+        "ar": {
+            "category": "الويب UI / UX",
+            "project": "متجر Byredo الإلكتروني",
+            "description": "تصميم موقع فاخر لبيع العطور ومنتجات التجميل الراقية"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/web_03.jpg",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/1dfb11218432655.67ea9771720d7.png"
     }
 ]
