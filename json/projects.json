@@ -40,5 +40,48 @@
         },
         "image": "https://fidaak83.github.io/devmixo-assets/images/web_03.jpg",
         "link": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/1dfb11218432655.67ea9771720d7.png"
+    },
+    ,
+    {
+        "en": {
+            "category": "Website",
+            "project": "World Star Holding Corporate Website",
+            "description": "A professional corporate website showcasing global investment and business solutions"
+        },
+        "ar": {
+            "category": "موقع ويب",
+            "project": "موقع شركة World Star Holding",
+            "description": "موقع احترافي يعرض حلول الاستثمار والأعمال العالمية"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/worldstarholding.jpg",
+        "link": "https://www.worldstarholding.com/"
+    },
+    {
+        "en": {
+            "category": "Website",
+            "project": "Romana Water Brand Website",
+            "description": "An elegant website for premium bottled water brand with hydration solutions"
+        },
+        "ar": {
+            "category": "موقع ويب",
+            "project": "موقع علامة Romana Water التجارية",
+            "description": "موقع أنيق لعلامة مياه معبأة فاخرة مع حلول الترطيب"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/romanawater.jpg",
+        "link": "https://romanawater.com/"
+    },
+    {
+        "en": {
+            "category": "Website",
+            "project": "Bloom Holding Real Estate Portal",
+            "description": "A sophisticated property development and real estate investment platform"
+        },
+        "ar": {
+            "category": "موقع ويب",
+            "project": "بوابة Bloom Holding العقارية",
+            "description": "منصة متطورة لتطوير العقارات والاستثمار في المجال العقاري"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/bloomholding.jpg",
+        "link": "https://bloomholding.com/"
     }
 ]
