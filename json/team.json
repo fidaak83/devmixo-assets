@@ -9,5 +9,16 @@
             "role": "UI / UX"
         },
         "image": "https://fidaak83.github.io/devmixo-assets/images/rahman.jpg"
+    },
+    {
+        "en": {
+            "name": "Imran",
+            "role": "Sales Manager"
+        },
+        "ar": {
+            "name": "عمران",
+            "role": "مدیر مبعات"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/imran.jpg"
     }
 ]
