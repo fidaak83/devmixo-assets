@@ -1,6 +1,17 @@
 [
     {
         "en": {
+            "name": "Gehad",
+            "role": "Co-Partner"
+        },
+        "ar": {
+            "name": "جھاد",
+            "role": "شريك متضامن"
+        },
+        "image": "https://fidaak83.github.io/devmixo-assets/images/gehad.jpg"
+    },
+    {
+        "en": {
             "name": "Rahman",
             "role": "UI / UX"
         },
